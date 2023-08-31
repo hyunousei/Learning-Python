@@ -1,0 +1,4 @@
+This is line 1
+And this second line
+Finally, last line
+This is the new data written to the file.
